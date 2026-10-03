@@ -1,0 +1,16 @@
+.ignore
+# Virtual Environment
+.venv/
+ 
+# Python
+__pycache__/
+*.py[cod]
+ 
+# Database
+db.sqlite3
+ 
+#*VS Code
+.vscode/
+ 
+# Environment Va*iables
+.env
